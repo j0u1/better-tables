@@ -1,3 +1,5 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 This pack gives a fresh look to tables like the crafting table.
 
 It’s currently owned by rnky, but full credit goes to the original creator, ZeusBlockTuber.
