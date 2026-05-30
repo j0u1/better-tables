@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uE012": -64
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:cube.png",
+      "ascent": 10,
+      "height": 8,
+      "chars": ["\uE006"]
+    }
+  ]
+}
